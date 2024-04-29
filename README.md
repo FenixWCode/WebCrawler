@@ -1,3 +1,4 @@
 # Webscraper
 
-Just a simple Webscraper i build for practicte to scrape book Data from books.toscrape.com. 
+Just a simple Webscraper i build for practice using Beautiful Soup 4.  
+The Scraper is build to scrape book Data like Title, Price and Star Rating from books.toscrape.com. 
